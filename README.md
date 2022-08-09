@@ -5,7 +5,7 @@ Flask template with tailwind css
 ### How to use:
 
 ```bash
-git clone https://github.com/Tekipeps/flask-tailwind-template.git
+git clone https://github.com/mugdevs/flask-tailwind-template.git
 
 cd flask-tailwind-template
 
